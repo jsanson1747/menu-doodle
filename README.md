@@ -1,2 +1,2 @@
 # menu-doodle
-A graphics wrap per around python turtle for building GUIs
+A graphics wrapper around python turtle for building GUIs
